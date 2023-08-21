@@ -1,9 +1,11 @@
 👋 Hi! I’m André (@devpg).
 
-I’ve been shaping tech environments for more than 15 years, bringing technology and business together. During that time, I’ve worked for startup’s, scaleup’s, up to big corporations. I have profound experience in software engineering and even more experience on the leadership side. In this role, I’m building and guiding organizations and transforming companies and their business on a tactical and strategic level. In recent years I was primarily working as a Chief Technology Officer.
+For close to 20 years, I have seamlessly blended technology and business, defining the technical landscapes from nimble startups to established corporations. My expertise ranges from software engineering - the beginning of my career - to the broader strokes of technical leadership, which is my focus for the last decade. As a Chief Technology Officer, I’ve charted the course for organizations, steering transformational initiatives at both tactical and strategic tiers.
 
-I’ve studied informatics and, later on, business economics. Yet to say, my focus is still on technology. I have a strong passion for technical topics, especially technology trends and their usage to drive innovation. Besides that, I’ve led various projects, from technical migrations to post-acquisition integrations. Finally, I’m an advocate of modern leadership and progressive organizational design. I have extensive experience in transforming organizations into sustainable technology powerhouses.
+My academic pursuits in informatics and later on business economics only sharpened my intrinsic passion for technology for building successful businesses. I am particularly keen on technology trends and their potential to drive innovation. Over the years, I’ve successfully helmed diverse projects, spanning from new products over technical migrations to complex post-acquisition integrations.
 
-I like to share my experience at conferences and support companies - as advisor and business angel - in mastering their technical challenges.
+I’m a staunch proponent of modern leadership and progressive organizational design. I have extensive experience in transforming organizations into sustainable technology powerhouses.
 
-Don’t hesitate to reach out to me. I’m always open for a chat.
+Next to being Chief Technology Officer at Trusted Shops - Europe’s leading trust brand - I also use my wealth of experience to actively support companies, both as a tech advisor and a business angel, in conquering their technological hurdles.
+
+Let’s connect!
